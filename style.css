@@ -5,8 +5,22 @@
 }
 
 p {
+    color: 	RGB(34, 180, 85);
     text-align: center;
     font-size: 60px;
     margin-top: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+
+body {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
 
